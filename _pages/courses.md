@@ -15,8 +15,8 @@ Machine Learning
 Machine Learning for Remote Sensing Data Analysis
 
 ### Shanghai Jiao Tong University 
-[[bachelor transcript]](http://xueleichen.github.io/files/SJTU-transcript-1.pdf)  
 [[master transcript]](http://xueleichen.github.io/files/SJTU-transcript-2.pdf)(Except two political courses, all credits are transferred from Berlin)  
+[[bachelor transcript]](http://xueleichen.github.io/files/SJTU-transcript-1.pdf)  
 Circuit Theory  
 ARM Embedded System and its Experiments  
 Signals and Systems  
