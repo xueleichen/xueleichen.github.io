@@ -1,9 +1,9 @@
 # main links links
 main:
-  - title: "Home"
+  - title: "About"
     url: /
 
-  - title: "CV"
+  - title: "CV/Bio."
     url: /files/xueleichen_cv.pdf
 
   - title: "Publications"
