@@ -15,4 +15,6 @@ Before that, I received M.Sc in Computer Engineering at [TU Berlin](https://www.
 
 I also worked in [PTB Berlin](https://www.ptb.de/cms/en.html) as a student assistant for 4 months in 2019. I worked on RNN-EKF for grid state estimation and Neural network method for spectra reconstruction. My advisor was [Dr. Sascha Einchstadt](https://www.ptb.de/cms/en/ptb/ptb-management/pstab/pst-1-coordination-digitalization/pst1-the-team.html) and [Dr. Natallia Makarava](https://de.linkedin.com/in/natallia-makarava-9a445657).
 
-I have an interdisciplinary background with knowledges about machine learning, signal processing, control and metrology. My research interests lie in the applications of machine learning in computer vision, robotics, remote sensing, etc.
+I have an interdisciplinary background with knowledges about machine learning, signal processing, control and instrumentation. 
+
+My current **research interests** includes **computer vision**, **robotics**, **reinforcement learning**.
