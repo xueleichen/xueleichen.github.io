@@ -18,4 +18,4 @@ I also worked in [PTB Berlin](https://www.ptb.de/cms/en.html) as a student assis
 I have an interdisciplinary background with knowledges about machine learning, signal processing, control and instrumentation. 
 
 # Research Interests
-My current research interests includes computer vision, robotics, reinforcement learning.
+My current research interests include computer vision, robotics, reinforcement learning.
